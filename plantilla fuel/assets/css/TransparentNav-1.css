@@ -1,0 +1,142 @@
+#mainNav {
+  position: absolute;
+  border-bottom: transparent;
+  background-color: transparent;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+#logo {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (min-width: 576px) {
+  #logo {
+    width: 650px;
+    height: 150px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #logo {
+    width: 800px;
+    height: 190px;
+  }
+}
+
+header.masthead .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #fff;
+  opacity: .1;
+}
+
+#services {
+  background-image: url("../../assets/img/fade-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 791px;
+}
+
+.align-items-center.align-self-start.ml-auto {
+}
+
+@media (min-width: 360px) {
+  #pomos {
+    margin-top: 35px;
+    height: 168px;
+    margin-left: auto;
+    width: 326px;
+    margin-right: 0px;
+  }
+}
+
+@media (min-width: 576px) {
+  #pomos {
+    margin-top: 35px;
+    height: 457px;
+    margin-left: auto;
+    width: 750px;
+    max-width: 100%;
+    margin-right: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  #pomos {
+    margin-top: 35px;
+    height: 425px;
+    margin-left: auto;
+    width: 734px;
+    max-width: 100%;
+    margin-right: 0px;
+  }
+}
+
+@media (min-width: 992px) {
+  #pomos {
+    margin-top: 35px;
+    height: 425px;
+    margin-left: auto;
+    width: 734px;
+    max-width: 100%;
+    margin-right: 0px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #pomos {
+    margin-top: 35px;
+    height: 425px;
+    margin-left: auto;
+    width: 734px;
+    max-width: 100%;
+    margin-right: -38px;
+  }
+}
+
+#footer-logo {
+  width: 230px;
+  filter: brightness(NaN%);
+  padding-bottom: 9px;
+  margin-bottom: 5px;
+}
+
+a, a:hover {
+  text-decoration: none;
+  border: none;
+  border-color: transparent;
+}
+
+a, a:hover {
+}
+
+#social-icons a, a:hover {
+  color: #ee335e;
+  text-align: right;
+  align-items: right;
+}
+
+#social-icons {
+  padding-top: 20px;
+}
+
+#line {
+  border: 1px solid rgba(255,255,255,0.23);
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+
+.submit-button {
+  border: 1px solid white;
+  background-color: #fff;
+}
+
+.submit-button:active, .submit-button:focus, .submit-button:hover {
+  background-color: #33b5e6;
+}
+

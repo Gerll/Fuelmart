@@ -1,0 +1,284 @@
+.footer-dark {
+  padding: 50px 0;
+  color: #f0f9ff;
+  background-color: #282d32;
+}
+
+.footer-dark h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.footer-dark ul {
+  padding: 0;
+  list-style: none;
+  line-height: 1.6;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.footer-dark ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.footer-dark ul a:hover {
+  opacity: 0.8;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item:not(.social) {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+}
+
+.footer-dark .item.text {
+  margin-bottom: 36px;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item.text {
+    margin-bottom: 0;
+  }
+}
+
+.footer-dark .item.text p {
+  opacity: 0.6;
+  margin-bottom: 0;
+}
+
+.footer-dark .item.social {
+  text-align: center;
+}
+
+@media (max-width:991px) {
+  .footer-dark .item.social {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+.footer-dark .item.social > a {
+  font-size: 20px;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
+  margin: 0 8px;
+  opacity: 1;
+}
+
+.footer-dark .item.social > a:hover {
+  opacity: 1;
+}
+
+.footer-dark .copyright {
+  text-align: center;
+  padding-top: 24px;
+  opacity: 0.3;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
+.fuel-logo-color {
+  width: 420px;
+  height: 65px;
+  padding-top: 5px;
+  margin-bottom: -36px;
+  margin-top: 8px;
+}
+
+.d-flex.justify-content-sm-end..img-fluid. {
+}
+
+#title {
+  color: rgb(255,255,255);
+  font-family: Heebo, sans-serif;
+  font-size: 83px;
+  line-height: 77px;
+  font-weight: bold;
+}
+
+@media (min-width: 300px) {
+  #title {
+    color: rgb(255,255,255);
+    font-family: Heebo, sans-serif;
+    font-size: 83px;
+    line-height: 77px;
+    font-weight: bold;
+  }
+}
+
+.icon-arrow-down {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+#arrow-but {
+  text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  #botes {
+    width: 100%;
+    height: 416px;
+  }
+}
+
+@media (max-width: 300px) {
+  #botes {
+    width: 100%;
+    height: 327px;
+  }
+}
+
+@media (min-width: 992px) {
+  #botes {
+    width: 100%;
+    height: 402px;
+  }
+}
+
+@media (max-width: 1200px) {
+  #botes {
+    width: 100%;
+    height: 361px;
+  }
+}
+
+#botes {
+  width: 100%;
+  height: 274px;
+  margin-top: -115px;
+}
+
+.text-justify.align-self-center {
+  align-content: center;
+  align-items: center;
+}
+
+#order-button {
+  align-items: center!important;
+  align-content: center!important;
+  justify-content: center!important;
+}
+
+.col-xs-12.col-sm-6.col-md-6.clearmargin.clearpadding.col-sm-push-6 {
+}
+
+#new-ticket {
+  height: 110vh;
+  margin-top: -128px;
+}
+
+@media (min-width: 992px) {
+  #new-ticket {
+    height: 110vh;
+    margin-top: -128px;
+    margin-left: auto;
+    margin-bottom: -127px;
+  }
+}
+
+@media (max-width: 768px) {
+  #new-ticket {
+    height: 67vh;
+    margin-top: 0px;
+    margin-bottom: -128px;
+  }
+}
+
+@media (max-width: 576px) {
+  #new-ticket {
+    height: 64vh;
+    margin-bottom: -129px;
+  }
+}
+
+@media (max-width: 362px) {
+  #new-ticket {
+    height: 45vh;
+    margin-bottom: -127px;
+  }
+}
+
+@media (max-width: 576px) {
+  .text-left.fitness {
+    width: 517px;
+    font-size: 41px;
+  }
+}
+
+.text-left.fitness {
+  width: 318px;
+}
+
+@media (min-width: 1200px) {
+  #about-fs {
+    margin: 133px;
+    margin-left: 155px;
+  }
+}
+
+@media (min-width: 360px) {
+  #about-fs {
+    margin: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 7px;
+  }
+}
+
+@media (min-width: 576px) {
+  #about-fs {
+    margin: 76px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  #about-fs {
+    margin: 76px;
+    margin-bottom: 0px;
+    margin-left: 196px;
+  }
+}
+
+@media (min-width: 992px) {
+  #about-fs {
+    margin: 76px;
+    margin-left: 132px;
+    max-height: auto;
+    max-width: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  #about-us {
+    padding-right: 111px;
+    margin-top: 205px;
+  }
+}
+
+@media (min-width: 768px) {
+  #about-us {
+    padding-right: 111px;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 992px) {
+  #about-us {
+    padding-right: 111px;
+    margin-top: 205px;
+  }
+}
+
